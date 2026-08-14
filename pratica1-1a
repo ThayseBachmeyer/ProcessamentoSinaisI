@@ -1,0 +1,19 @@
+frequencies_to_plot = [500, 5000, 10000]
+
+sampling_frequency = 44100 # Hz
+duration = 0.01 # seconds
+
+# t = np.linspace(0.0, duration, int(sampling_frequency * duration), endpoint=False)
+t = np.arange(0,duration,1/sampling_frequency, dtype=float)
+
+for freq in frequencies_to_plot:
+    # Generate a cosine signal for the current frequency
+    signal_to_plot = 1.0 * np.cos(2 * np.pi * freq * t)
+
+    plt.figure(figsize=(12, 4))
+    plt.plot(t, signal_to_plot)
+    plt.title(f'Sinal Senoidal no Domínio do Tempo ({freq} Hz)')
+    plt.xlabel('Tempo (s)')
+    plt.ylabel('Amplitude')
+    plt.grid(True)
+    plt.show()
