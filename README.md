@@ -8,6 +8,13 @@ Repositório contendo códigos e arquivos utilizados nas  práticas da disciplin
 - **Aula 01** - Aula Prática 1
 
 
+## Organização
+
+Aula 01/
+      codigo/ **-->** Códigos utilizados na atividade
+      dados/ **-->** Arquivos utilizdados
+
+
 ## Requisitos
 
 - **Python 3**
