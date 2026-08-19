@@ -1,6 +1,6 @@
 # Processamento de sinais I
 
-Repositório contendo códigos e arquivos utilizados nas  práticas da disciplina de processamento de Sinais I
+Repositório contendo códigos e arquivos utilizados nas  práticas da disciplina de processamento de Sinais I.
 
 
 ##  Conteúdo do Repositório
@@ -39,6 +39,11 @@ cd ProcessamentoSinaisI
 ### Instale as dependências
 
 pip install -r requerimentos.txt
+
+
+## Resultados
+
+Resultados podem ser obtidos executando os códigos disponíveis no respositório.
 
 
 ## Autor
