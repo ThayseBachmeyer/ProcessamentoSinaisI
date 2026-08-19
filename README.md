@@ -35,6 +35,10 @@ git clone [https://github.com/ThayseBachmeyer/ProcessamentoSinaisI]
 
 cd ProcessamentoSinaisI
 
+### Instale as dependências
+
+pip install -r requerimentos.txt
+
 
 ## Autor
 
