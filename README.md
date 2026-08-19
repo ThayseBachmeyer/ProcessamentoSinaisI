@@ -11,6 +11,7 @@ Repositório contendo códigos e arquivos utilizados nas  práticas da disciplin
 ## Organização
 
 Aula 01/
+
       codigo/ **-->** Códigos utilizados na atividade
       dados/ **-->** Arquivos utilizdados
 
