@@ -24,3 +24,23 @@ Repositório contendo códigos e arquivos utilizados nas  práticas da disciplin
 - **Ipython**
 - **Librosa**
 - **Jupyter Notebook**
+
+## Instalação
+
+### Clone o repositório:
+
+git clone [https://github.com/ThayseBachmeyer/ProcessamentoSinaisI]
+
+### Entre na pasta:
+
+cd ProcessamentoSinaisI
+
+
+## Autor
+
+THAYSE BACHMEYER GUIMARAES DE SA\
+GABRIEL DEMYAN RODRIGUES DE LIMA\
+MATHEUS HENRIQUE SILVA MARTINS DE OLIVEIRA
+
+### Processamento de Sinais I
+### CEFET-RJ
