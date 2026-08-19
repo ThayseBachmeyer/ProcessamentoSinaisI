@@ -5,7 +5,7 @@ Repositório contendo códigos e arquivos utilizados nas  práticas da disciplin
 
 ##  Conteúdo do Repositório
 
--**Aula 01** - Aula Prática 1
+- **Aula 01** - Aula Prática 1
 
 
 ## Requisitos
