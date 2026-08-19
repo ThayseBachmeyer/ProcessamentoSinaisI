@@ -12,7 +12,8 @@ Repositório contendo códigos e arquivos utilizados nas  práticas da disciplin
 
 - Aula 01/
     - codigo/ --> Códigos utilizados na atividade
-    - dados/ --> Arquivos utilizdados
+    - dados/ --> Arquivos utilizadados
+    - Resultados/ --> Resultados gerados pelos códigos
 
 
 ## Requisitos
