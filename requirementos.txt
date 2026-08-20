@@ -4,3 +4,4 @@ scipy
 Ipython
 librosa
 jupyter 
+os
