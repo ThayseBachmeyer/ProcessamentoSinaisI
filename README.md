@@ -11,8 +11,8 @@ Repositório contendo códigos e arquivos utilizados nas aulas práticas da disc
 ## Organização
 
 - Aula 01/
-    - codigo/ --> Códigos utilizados na atividade
-    - dados/ --> Arquivos utilizadados
+    - Códigos/ --> Códigos utilizados na atividade
+    - Dados/ --> Arquivos utilizadados
     - Resultados/ --> Resultados gerados pelos códigos
 
 
