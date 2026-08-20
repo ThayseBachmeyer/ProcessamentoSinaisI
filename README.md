@@ -1,6 +1,6 @@
 # Processamento de sinais I
 
-Repositório contendo códigos e arquivos utilizados nas  práticas da disciplina de processamento de Sinais I.
+Repositório contendo códigos e arquivos utilizados nas aulas práticas da disciplina de processamento de Sinais I.
 
 
 ##  Conteúdo do Repositório
