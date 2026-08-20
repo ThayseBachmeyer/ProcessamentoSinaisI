@@ -24,6 +24,7 @@ Repositório contendo códigos e arquivos utilizados nas aulas práticas da disc
 - **Scipy**
 - **Ipython**
 - **Librosa**
+- **os Library**
 - **Jupyter Notebook**
 
 ## Instalação
