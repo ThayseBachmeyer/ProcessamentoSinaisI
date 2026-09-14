@@ -19,6 +19,11 @@ Repositório contendo códigos e arquivos utilizados nas aulas práticas da disc
     - Códigos/ --> Códigos utilizados na atividade
     - Dados/ --> Arquivos utilizadados
     - Resultados/ --> Resultados gerados pelos códigos
+ 
+- Aula 03/
+    - Códigos/ --> Códigos utilizados na atividade
+    - Dados/ --> Arquivos utilizadados
+    - Resultados/ --> Resultados gerados pelos códigos
 
 
 ## Requisitos
@@ -27,7 +32,7 @@ Repositório contendo códigos e arquivos utilizados nas aulas práticas da disc
 - **Numpy**
 - **Matplotlib**
 - **Scipy**
-- **Ipython**
+- **IPython**
 - **Librosa**
 - **os Library**
 - **Jupyter Notebook**
