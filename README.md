@@ -6,6 +6,8 @@ Repositório contendo códigos e arquivos utilizados nas aulas práticas da disc
 ##  Conteúdo do Repositório
 
 - **Aula 01** - Aula Prática 1
+- **Aula 02** - Aula Prática 2
+- **Aula 03** - Aula Prática 3
 
 
 ## Organização
