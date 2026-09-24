@@ -1,0 +1,85 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "name": "Prat4.ipynb",
+      "authorship_tag": "ABX9TyNOPRtQ0JT3MTvzPLwbytZL",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/ThayseBachmeyer/ProcessamentoSinaisI/blob/main/ProcessamentoSinaisI/Aula%2004/C%C3%B3digos\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## Código utilizado na questão 1"
+      ],
+      "metadata": {
+        "id": "mK56Oluu--Rq"
+      }
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "n4e_ZD8C-5Cg"
+      },
+      "outputs": [],
+      "source": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## Código utilizado na questão 2"
+      ],
+      "metadata": {
+        "id": "v6-SzPIm_UwZ"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "l_Z09GM9_WFR"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## Código utilizado na questão 3"
+      ],
+      "metadata": {
+        "id": "TH0zucd1_WPp"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "Qqs_F-n3_XcB"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
