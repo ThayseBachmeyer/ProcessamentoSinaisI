@@ -8,6 +8,9 @@ Repositório contendo códigos e arquivos utilizados nas aulas práticas da disc
 - **Aula 01** - Aula Prática 1
 - **Aula 02** - Aula Prática 2
 - **Aula 03** - Aula Prática 3
+- **Aula 04** - Aula Prática 4
+- **Aula 05** - Aula Prática 5
+- **Aula 05** - Aula Prática 6
 
 
 ## Organização
@@ -27,7 +30,22 @@ Repositório contendo códigos e arquivos utilizados nas aulas práticas da disc
     - Dados/ --> Arquivos utilizadados
     - Resultados/ --> Resultados gerados pelos códigos
 
+- Aula 04/
+    - Códigos/ --> Códigos utilizados na atividade
+    - Dados/ --> Arquivos utilizadados
+    - Resultados/ --> Resultados gerados pelos códigos
 
+- Aula 05/
+    - Códigos/ --> Códigos utilizados na atividade
+    - Dados/ --> Arquivos utilizadados
+    - Resultados/ --> Resultados gerados pelos códigos
+
+- Aula 06/
+    - Códigos/ --> Códigos utilizados na atividade
+    - Dados/ --> Arquivos utilizadados
+    - Resultados/ --> Resultados gerados pelos códigos
+
+  
 ## Requisitos
 
 - **Python 3**
@@ -37,6 +55,8 @@ Repositório contendo códigos e arquivos utilizados nas aulas práticas da disc
 - **IPython**
 - **Librosa**
 - **Jupyter Notebook**
+- **rllib**
+- **sklearn**
 
 ## Instalação
 
